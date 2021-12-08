@@ -5,6 +5,10 @@
 En este laboratorio practico lo aprendido. <br> 
 Recibí el requerimiento y lo realicé en HTML y CSS. 
 
+### Mi Resultado: https://drive.google.com/file/d/1GW3QDDMsTVz2g0Dq36hYc4n3UgUe2utx/view?usp=sharing
+
+### Requerimiento y Consigna:
+
 <img src="requerimiento2.jpg" width="1000" alt="Imagen de requerimiento" > 
 
 <ol> 
